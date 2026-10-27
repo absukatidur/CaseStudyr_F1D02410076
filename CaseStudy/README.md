@@ -106,33 +106,15 @@ Relationships:
 
 The diagram illustrates inheritance, interface implementation, and polymorphism in the character system.
 
-## 4. How to Run the Program
-
-Make sure the Java Development Kit (JDK) is installed.
-
-Compile the Java source files:
-
-```bash
-javac -d out src/*.java
-```
-
-Run the program:
-
-```bash
-java -cp out Main
-```
-
-The program displays character information, demonstrates attacks, updates the target's health, and prints the final character status.
-
-## 5. Conclusion
+## 4. Conclusion
 
 The Game Character System demonstrates how Java supports object-oriented programming through abstract classes, interfaces, inheritance, and polymorphism.
 
 These concepts make the program easier to organize, maintain, and extend. New character types can be added by extending `Character` and implementing the required interfaces.
 
-## 6. Author
+## 5. Author
 
-- **Name:** [Your Name]
-- **Student ID:** [Your NIM]
-- **Class:** [Your Class]
+- **Name:** Muhammad Andika Azkiya
+- **Student ID:** F1D02410076
+- **Class:** A
 - **Course:** Object-Oriented Programming (OOP)
